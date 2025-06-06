@@ -1,0 +1,15 @@
+# Logs do Curador de Notícias
+# Este diretório contém os logs de execução do agente
+
+# Os logs são gerados automaticamente durante a execução
+# Formato: news-curator-YYYY-MM-DD.log
+
+# Para visualizar logs em tempo real:
+# tail -f logs/news-curator.log
+
+# Para buscar por erros:
+# grep ERROR logs/news-curator.log
+
+# Para buscar por um tópico específico:
+# grep "tópico_desejado" logs/news-curator.log
+

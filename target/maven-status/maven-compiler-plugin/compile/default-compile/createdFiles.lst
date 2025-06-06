@@ -1,0 +1,9 @@
+com/example/newscurator/tools/NewsSearchTool.class
+com/example/newscurator/tools/NewsCategorizerTool.class
+com/example/newscurator/tools/ReportGeneratorTool.class
+com/example/newscurator/tools/NewsSummarizerTool.class
+com/example/newscurator/models/NewsArticle.class
+com/example/newscurator/models/NewsReport.class
+com/example/newscurator/NewsCuratorApplication.class
+com/example/newscurator/agent/NewsCuratorAgent.class
+com/example/newscurator/utils/ConfigManager.class
